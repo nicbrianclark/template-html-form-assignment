@@ -1,0 +1,20 @@
+/** Here's some very basic styling to get you started **/
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding-top: 2rem;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #f1f1f1;
+    color: #333333;
+}
+
+header, main, footer {
+    max-width: 768px;
+    margin: auto;
+}
+
+header, footer {
+    text-align: center;
+}
